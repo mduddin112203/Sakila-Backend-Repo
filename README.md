@@ -1,4 +1,4 @@
-# CS490 Sakila Backend API
+# Sakila Backend API
 
 Backend API for the Sakila DVD Store management system.
 
